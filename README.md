@@ -1,5 +1,5 @@
 # crawler-weibo
-使用新浪微博API-Oauth2.0爬取微博数据的小项目
+使用新浪微博API-Oauth2.0爬取微博数据demo
 
 自三月份第一次学习新浪微博API-Oauth2.0之后，开始颓废至今.......
 
